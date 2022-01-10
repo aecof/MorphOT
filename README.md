@@ -1,3 +1,5 @@
+[paper accompanying the software](https://www.biorxiv.org/content/10.1101/2020.09.08.286302v1), written by Arthur Ecoffet, Fréderic Poitevin, Khanh Dao Duc 
+
 # MorphOT: Transport-based interpolation between EM maps with UCSF ChimeraX
 
 ![OT morphing on chaperonin](.readme_material/chaperonin.png)
